@@ -1,0 +1,22 @@
+img {
+  margin: auto;
+  padding: 3%;
+}
+
+
+body {
+  font-family: verdana;
+  background-color: lightyellow;
+}
+
+h1 {
+  font-family: verdana;
+  color: black;
+  text-align: left;
+  padding: 3%;
+}
+
+p {
+  font-family: verdana;
+  font-size: 14px;
+}
